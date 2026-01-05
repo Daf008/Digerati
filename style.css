@@ -574,7 +574,7 @@ body {
 
     .about-bottom {
         margin-top: auto; 
-        padding-bottom: 2rem; 
+        padding-bottom: 0.1rem; 
     }
 
     .about-big-title {
@@ -619,3 +619,4 @@ body {
 .hamburger.toggle span:nth-child(1) { transform: rotate(-45deg) translate(-5px, 6px); }
 .hamburger.toggle span:nth-child(2) { opacity: 0; }
 .hamburger.toggle span:nth-child(3) { transform: rotate(45deg) translate(-5px, -6px); }
+
